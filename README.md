@@ -33,7 +33,7 @@ programa
 
 6. El programa comenzará a ejecutarse. Sigue las instrucciones y proporciona los valores solicitados.
 
-7. Después de mostrar el resultado del residuo de la división, el programa finalizará su ejecución.
+7. Después de mostrar el resultado, el programa finalizará su ejecución.
 
 ¡Eso es todo! Ahora deberías poder ejecutar el programa de maximo comun divisor en C y probar diferentes números enteros.
 
