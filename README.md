@@ -24,9 +24,9 @@ Algunos ejemplos de valores de entrada y salida esperados son:
 
 4. Compila el programa: Abre una terminal o línea de comandos y navega hasta la ubicación del archivo .c. Luego, utiliza el compilador de C, como GCC, para compilar el código. Por ejemplo, si estás utilizando GCC, puedes ejecutar el siguiente comando:
 
-gcc -o programa mcd.c
+   gcc -o programa mcd.c
 
-Esto generará un archivo ejecutable llamado "programa" en el mismo directorio.
+   Esto generará un archivo ejecutable llamado "programa" en el mismo directorio.
 
 5. Ejecuta el programa: En la terminal o línea de comandos, escribe el nombre del archivo ejecutable y presiona Enter. Por ejemplo:
 programa
